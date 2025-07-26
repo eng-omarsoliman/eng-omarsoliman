@@ -8,7 +8,7 @@
 <h2>Hey, I'm <strong>Eng. Omar Ibrahim</strong> 👋</h2>
 <p><em>ECE Student | Cybersecurity Learner | Frontend Beginner</em></p>
 
-<p><strong>🎯 Focused on growth, breaking into Cybersecurity while building a solid dev foundation.</strong></p>
+<p><strong>💻 Just a student with a keyboard and a big dream.</strong></p>
 
 <p>
   <img src="https://img.icons8.com/ios-filled/25/888888/wolf--v1.png" width="20" style="vertical-align: middle; margin-right: 6px;" />
