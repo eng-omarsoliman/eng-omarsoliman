@@ -11,10 +11,9 @@
 <p><strong>🎯 Focused on growth, breaking into Cybersecurity while building a solid dev foundation.</strong></p>
 
 <p>
-  <img src="https://img.icons8.com/ios-filled/24/ffffff/wolf--v1.png" width="20" style="vertical-align: middle; margin-right: 6px;" />
+  <img src="https://img.icons8.com/ios-filled/25/888888/wolf--v1.png" width="20" style="vertical-align: middle; margin-right: 6px;" />
   <strong style="vertical-align: middle;">Silver Wolf</strong>
 </p>
-
 </div>
 
 ---
@@ -91,5 +90,3 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="8%"/>
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="8%"/>
-
----
