@@ -8,15 +8,12 @@
 <h2>Hey, I'm <strong>Eng. Omar Ibrahim</strong> 👋</h2>
 <p><em>ECE Student | Cybersecurity Learner | Frontend Beginner</em></p>
 
-<details>
-  <summary><strong>🎧 Coding & Vibing to:</strong></summary>
-  <br>
-  <a href="https://open.spotify.com/user/somnathpaul">
-    <img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" alt="Spotify Now Playing" />
-  </a>
-</details>
+<p><strong>🎯 Focused on growth, breaking into Cybersecurity while building a solid dev foundation.</strong></p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat&color=blueviolet&label=PROFILE+VIEWS)
+<p>
+  <img src="https://img.icons8.com/ios-filled/24/ffffff/wolf--v1.png" width="20" style="vertical-align: middle; margin-right: 6px;" />
+  <strong style="vertical-align: middle;">Silver Wolf</strong>
+</p>
 
 </div>
 
